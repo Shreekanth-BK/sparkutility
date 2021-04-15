@@ -1,5 +1,5 @@
 # sparkutility
-For functionalities that are missing in Saprk SQL
+For functionalities that are missing in Spark SQL
 
 ## Available functions
 - isNumeric <br/><br/><br/>
