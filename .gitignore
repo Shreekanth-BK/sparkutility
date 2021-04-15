@@ -1,0 +1,4 @@
+#ignoring diectories
+/build
+/dist
+/sparkutility.egg-info
